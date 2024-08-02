@@ -35,20 +35,7 @@ export const dataImage = {
       height: "1732",
       alt: "note",
     },
-    {
-      image: "chatreal.jpeg",
-      url: "https://github.com/mariantonieta/real-time-chat",
-      width: "1732",
-      height: "1732",
-      alt: "chat real time",
-    },
-    {
-      image: "task.jpeg",
-      url: "https://github.com/mariantonieta/TaskList",
-      width: "1732",
-      height: "1732",
-      alt: "task list",
-    },
+
     {
       image: "clima.jpeg",
       url: "https://github.com/mariantonieta/weather-app",
@@ -62,13 +49,6 @@ export const dataImage = {
       width: "1732",
       height: "1732",
       alt: "calculator",
-    },
-    {
-      image: "crud.jpeg",
-      url: "https://github.com/mariantonieta/crud_animals",
-      width: "1732",
-      height: "1732",
-      alt: "crud-app",
     },
   ],
 };

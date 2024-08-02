@@ -86,10 +86,10 @@ const Contact = () => {
             )}
           </nav>
 
-          <div class="min-h-screen">
-            <div class="container">
-              <div class="flex flex-col lg:flex-row rounded-sm mx-auto shadow-lg overflow-hidden">
-                <div class="w-full lg:w-1/2 flex flex-col items-center mt-5 justify-center p-12 bg-no-repeat bg-cover bg-center">
+          <div className="min-h-screen">
+            <div className="container">
+              <div className="flex flex-col lg:flex-row rounded-sm mx-auto shadow-lg overflow-hidden">
+                <div className="w-full lg:w-1/2 flex flex-col items-center mt-5 justify-center p-12 bg-no-repeat bg-cover bg-center">
                   <Image
                     src={anto2}
                     width={150}
@@ -107,9 +107,9 @@ const Contact = () => {
                     </h3>
                   </div>
                 </div>
-                <div class="w-full lg:w-1/2 py-16 px-12">
-                  <h1 class="mb-4 font-extrabold text-gray-0900 dark:text-white md:text-3xl lg:text-4xl">
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r to-purple-600 from-sky-400">
+                <div className="w-full lg:w-1/2 py-16 px-12">
+                  <h1 className="mb-4 font-extrabold text-gray-0900 dark:text-white md:text-3xl lg:text-4xl">
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r to-purple-600 from-sky-400">
                       Contact with me
                     </span>
                   </h1>

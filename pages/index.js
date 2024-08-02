@@ -107,7 +107,7 @@ export default function Home() {
                 </p>
 
                 <div className="text-5xl mt-10 p-8 self-center space-x-4 text-gray-600 dark:text-gray-400">
-                  <div class=" flex space-x-4">
+                  <div className=" flex space-x-4">
                     <Link
                       className="justify-center text-center  hover:bg-violet-400 text-purple-600 font-bold py-2 px-4 rounded inline-flex items-center"
                       href="https://github.com/mariantonieta"
@@ -135,22 +135,19 @@ export default function Home() {
               </h3>
               <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
                 <p className=" py-2 font-mono  text-violet-800 dark:text-violet-300">
-                  {` Hello everybody! I'm passionate about web programming. I
-                  started studying on my own and I realized that it is my
-                  favorite hobby, and I hope it will become my dream job.`}
-                  <br />
-                  My favorite language is JavaScript, as it allows me to create
-                  efficient and scalable solutions, than to this, I can
-                  implement unique and creative ideas to solve problems on the
-                  web.
-                  <br />I am convinced that web programming is the future, and I
-                  am excited to be part of exciting projects in the web
-                  programming world.
+                  Hello everyone! I am passionate about web programming. I
+                  started studying on my own and realized that it is my favorite
+                  hobby and I hope it becomes my dream job. I am studying my
+                  last year of DAW and I am open to job opportunities,
+                  internships or projects that help me grow professionally.
                 </p>
               </div>
             </div>
             <div className="flex-auto flex space-x-4 px-20">
-              <Link download="Mariantonieta.pdf" href="Mariantonieta.pdf">
+              <Link
+                download="CVi-MariantonietaChacon.pdf"
+                href="CVi-MariantonietaChacon.pdf"
+              >
                 <button className="justify-center text-center bg-purple-600 hover:bg-violet-500 text-slate-200 font-bold py-2 px-4 rounded inline-flex items-center dark:text-black">
                   <svg
                     className="fill-current w-4 h-4 mr-2"
@@ -197,12 +194,14 @@ export default function Home() {
           <section className="py-10">
             <div>
               <h3 className="text-3xl font-mono text-center  pt-8 pb-2   text-purple-900 dark:text-purple-500 ">
-                Portfolio
+                My Projects
               </h3>
               <p className="text-md py-2 px-20 font-mono leading-8 text-violet-800 dark:text-violet-300">
-                In all of these projects, I was able to apply my knowledge in
-                web application development to offer specific solutions for each
-                client.
+                In these projects I have put into practice everything I learned
+                in my training and I am convinced that each line of code I write
+                brings me closer to my goal of becoming an expert developer.
+                Through my projects, I not only share my progress, but also my
+                enthusiasm to continue learning and pushing my own limits.
               </p>
             </div>
             <div className="grid sm:grid-cols-2  md:grid-cols-4 gap-5 px-10 sm:px-0">
