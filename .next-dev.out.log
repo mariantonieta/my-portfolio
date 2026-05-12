@@ -1,0 +1,59 @@
+
+> my-portfolio@0.1.0 predev
+> node scripts/clean-next.mjs
+
+
+> my-portfolio@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1486ms
+ ○ Compiling / ...
+ ✓ Compiled / in 16.5s (456 modules)
+ GET / 200 in 17401ms
+ ○ Compiling /home ...
+ ✓ Compiled /home in 8.3s (460 modules)
+ GET /home 200 in 67ms
+ ✓ Compiled /_error in 381ms (458 modules)
+ GET / 404 in 420ms
+ GET / 404 in 21ms
+ GET / 404 in 22ms
+ GET / 404 in 10ms
+ GET / 404 in 11ms
+ GET / 404 in 12ms
+ GET / 404 in 35ms
+ GET / 404 in 29ms
+ GET / 404 in 16ms
+ GET / 404 in 17ms
+ GET / 404 in 14ms
+ GET / 404 in 17ms
+ GET / 404 in 20ms
+ GET / 404 in 11ms
+ GET / 404 in 11ms
+ GET / 404 in 9ms
+ GET / 404 in 23ms
+ GET / 404 in 14ms
+ GET / 404 in 32ms
+ GET / 404 in 15ms
+ GET / 404 in 18ms
+ GET / 404 in 13ms
+ GET / 404 in 22ms
+ GET / 404 in 13ms
+ GET / 404 in 110ms
+ GET / 404 in 63ms
+ ✓ Compiled in 319ms (305 modules)
+ ✓ Compiled in 326ms (305 modules)
+ ✓ Compiled in 392ms (305 modules)
+ ○ Compiling /portfolio ...
+ ✓ Compiled /portfolio in 7.8s (442 modules)
+ GET /portfolio 200 in 8525ms
+ GET /portfolio 200 in 27ms
+ GET /portfolio 200 in 29ms
+ GET /portfolio 200 in 35ms
+ ✓ Compiled in 556ms (442 modules)
+ GET /portfolio 200 in 1221ms
+ ✓ Compiled in 328ms (442 modules)
+ ✓ Compiled in 420ms (442 modules)
