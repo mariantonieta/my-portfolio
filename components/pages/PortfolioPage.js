@@ -17,7 +17,6 @@ export default function PortfolioPage() {
             title={t("portfolioPage.title")}
             description={t("portfolioPage.description")}
           />
-          <p className="supporting-note">{t("portfolioPage.note")}</p>
           <div className="hero-actions">
             <Link href="/contact" className="primary-button">
               {t("common.contactMe")}
